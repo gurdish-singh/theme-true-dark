@@ -37,7 +37,7 @@ Users of this theme are always welcome to share their valuable feedback for futu
 
 <br/>
 
-<a href="https://github.com/gurdish-singh" target="_blank"><img src="./Logo.png" width=200 /></a>
+<a href="https://github.com/gurdish-singh" target="_blank"><img src="./Logo.png" width=140 /></a>
 
 **True Dark** — Less light, more sight, keep your vision burning bright.
 

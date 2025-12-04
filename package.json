@@ -1,9 +1,10 @@
 {
-  "name": "true-dark",
-  "displayName": "True Dark",
+  "name": "true-dark-by-gurdish-singh",
+  "displayName": "True Dark By Gurdish Singh",
   "description": "True Dark is a sleek, modern theme designed to reduce eye strain while enhancing focus and clarity. Its deep, immersive color palette creates a sophisticated environment that highlights content without distraction, allowing users to engage longer and think sharper. True Dark balances elegance with functionality, providing a visually comfortable experience that’s both motivating and inspiring, perfect for visionary workspaces, creative projects, and long hours of productivity.",
-  "version": "1.0.0",
-  "publisher": "", // Publisher ID from microsoft azure publisher account is requried as value.
+  "version": "1.0.1",
+  "publisher": "gurdish-singh",
+  "icon": "./Logo.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/gurdish-singh/theme-true-dark"
@@ -39,5 +40,11 @@
         "path": "./themes/true_dark.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "read -p 'Enter Version (major / minor / patch): ' version; npx vsce package \"$version\" "
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.7.1"
   }
 }
