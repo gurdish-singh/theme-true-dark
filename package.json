@@ -2,7 +2,7 @@
   "name": "true-dark-by-gurdish-singh",
   "displayName": "True Dark By Gurdish Singh",
   "description": "True Dark is a sleek, modern theme designed to reduce eye strain while enhancing focus and clarity. Its deep, immersive color palette creates a sophisticated environment that highlights content without distraction, allowing users to engage longer and think sharper.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "gurdish-singh",
   "icon": "./Logo.jpeg",
   "repository": {
@@ -31,7 +31,7 @@
     "night theme"
   ],
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -50,6 +50,7 @@
     "update": "read -p 'Enter Version (major / minor / patch): ' version; npx vsce publish \"$version\""
   },
   "dependencies": {
-    "@vscode/vsce": "^3.7.1"
+    "@vscode/vsce": "^3.7.1",
+    "ovsx": "^0.10.7"
   }
 }
