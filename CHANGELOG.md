@@ -27,7 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ---
 
-## [1.4.0] - December 06, 2025
+## [2.0.0] - December 06, 2025
 
 ### Added
 
