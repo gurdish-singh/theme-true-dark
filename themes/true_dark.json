@@ -405,7 +405,7 @@
     {
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
-      "settings": { "foreground": "#ffad83" }
+      "settings": { "foreground": "#FF875B" }
     },
     {
       "name": "java type",
@@ -503,7 +503,7 @@
     {
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
-      "settings": { "foreground": "#d0eea3" }
+      "settings": { "foreground": "#FFEFAE" }
     },
     {
       "name": "js/ts json",
@@ -648,7 +648,7 @@
     {
       "name": "Variables",
       "scope": "variable",
-      "settings": { "foreground": "#d0eea3" }
+      "settings": { "foreground": "#C7FFDA" }
     },
     {
       "name": "Variables (c)",
@@ -753,7 +753,7 @@
     {
       "name": "Support type",
       "scope": "support.type.property-name",
-      "settings": { "foreground": "#fdfcdc" }
+      "settings": { "foreground": "#80e1ff" }
     },
     {
       "name": "Support constant property-value",
