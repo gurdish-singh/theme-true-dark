@@ -81,7 +81,7 @@
     "editor.selectionBackground": "#fdfcdc28",
     "editor.inactiveSelectionBackground": "#fdfcdc28",
     "editorWhitespace.foreground": "#fdfcdc26",
-    "editor.selectionHighlightBackground": "#fdfcdc3c",
+    "editor.selectionHighlightBackground": "#454545",
     "editor.selectionHighlightBorder": "#fdfcdc8d",
     "editor.findMatchBackground": "#fdfcdc3c",
     "editor.findMatchBorder": "#fdfcdc6a",
